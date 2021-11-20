@@ -1,4 +1,4 @@
-<h1 align="center">Grupo de investigación en sistemática y biogeografeia de plantas</h1>
+<h1 align="center">Grupo de investigación en sistemática y biogeografía de plantas</h1>
 <p align="center">
 <img height="200" src="https://github.com/Adolfojara/lab/blob/main/favicons/begonia-plant-flowers-leaves-107722.png" alt="Lab Website Template">
 </p>
