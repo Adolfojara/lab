@@ -8,32 +8,6 @@ En este laboratorio creemos en la importancia de la ciencia básica y en la nece
 Tratamos de resolver preguntas de investigación en diferentes ámbitos de la biología, principalmente aquellas basadas o relacionadas con colecciones científicas, y con las plantas de Colombia como principal objeto de estudio.
 Si está interesado en formar parte LaBota puede escribir al correo del profesor Adolfo Jara oajaram@unal.edu.co
 
-#### 🔔 Still in pre-release/preview. We need testers! 🔔
-
-Please help us out!
-How easy is the template to use?
-How flexible is it?
-How's our documentation?
-
-## Features
-
-- **Automatically generated citations** (using [Manubot](https://manubot.org)) from **just an identifier** (DOI, PubMed ID, and many more)
-- Automatically pull in and display tags from GitHub repositories
-- Works and looks good on all major desktop and mobile browsers
-- A suite of pre-built components:
-  - formatted tables and code blocks
-  - social media links with icons
-  - figures with captions
-  - image galleries
-  - multi-size cards with image and text
-  - citations
-  - ...[and many more](https://github.com/greenelab/lab-website-template/wiki/Components)!
-- A **home page**, where you can highlight the most important things that make your lab special
-- A **research page**, with a sorted, searchable list of all your published works
-- A **tools page**, where you can show off your software, datasets, or other useful things
-- A **team** page, compiled automatically from individual members
-- Individual **team member pages** with bios, assignable roles, and social media links
-- A **blog page**, with a sorted, grouped, tagged list of all your posts
 
 ## Gallery
 
